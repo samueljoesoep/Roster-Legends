@@ -878,11 +878,11 @@ K,Sebastian Janikowski,39,2000,48,45,68,99,78,45,3.6,1
 K,Marquette King,29,2012,64,57,71,100,88,57,2.1,4
 END_PLAYERS
 ######################################################################  CHARGERS
-Los Angeles Chargers,LAC
+San Diego Chargers,SDC
 QB,Kellen Clemens,34,2006,46,59,71,71,61,37,0.7,1
 QB,Cardale Jones,25,2016,70,45,85,97,54,65,0.5,3
-QB,Philip Rivers,36,2004,58,93,99,83,75,37,15.8,3
-RB,Austin Ekeler,22,2017,74,35,61,62,65,68,0.3,3
+QB,Philip Rivers,36,2015,98,85,82,98,97,96,8.9,6
+RB,LaDainian Tomlinson,26,2014,115,99,78,111,116,111,4.0,7
 RB,Melvin Gordon,24,2015,69,81,81,83,88,94,2.6,2
 RB,Branden Oliver,26,2014,72,59,75,75,81,86,0.5,1
 RB,Derek Watt,25,2016,70,40,85,60,67,65,0.4,3
@@ -924,7 +924,7 @@ LB,Nigel Harris,23,2017,91,35,73,62,64,60,0.3,3
 LB,Jatavis Brown,23,2016,95,64,81,75,78,83,0.4,3
 CB,Desmond King,23,2017,69,45,88,76,75,53,0.5,4
 CB,Trevor Williams,24,2016,99,40,73,76,87,40,0.3,1
-CB,Jeff Richards,26,2017,71,35,59,70,73,57,0.3,3
+CB,Antonio Cromartie,27,2010,76,68,88,64,69,71,1.9,4
 CB,Jason Verrett,26,2014,68,70,81,96,90,43,2.7,2
 CB,Casey Hayward,28,2012,62,81,70,90,83,43,3.7,2
 S,Tre Boston,25,2014,89,64,78,83,78,73,0.6,1
